@@ -1,0 +1,77 @@
+body {
+  background-image: url('/Users/paoloolivieri/Desktop/HTML/LimeWebsite/MaterialeEsercizioLim/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Public Sans', sans-serif;
+
+}
+
+.rettangoloNero {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  margin: 30px 18%;
+  text-align: center;
+}
+
+.logo {
+  margin-top: 8%;
+  max-width: 21%;
+}
+
+.sottotitolo {
+  font-weight: normal;
+  font-size: 30px;
+  color: lime;
+  margin: 0 0 0.25%;
+}
+
+nav {
+  background-color: lime;
+  padding: 8px;
+  margin: 0 8% 0;
+}
+
+.lista {
+  text-align: left;
+  margin: 2% 8% 0;
+  color: white;
+}
+
+.barra-caricamento {
+  padding: 10px;
+  border-radius: 5px;
+  height: 5px;
+  margin-bottom: 3%;
+}
+
+
+#barra1 {
+  background-color: goldenrod;
+  margin-right: 65%;
+}
+
+#barra2 {
+  background-color: limegreen;
+  margin-right: 40%;
+}
+
+#barra3 {
+  background-color: firebrick;
+  margin-right: 80%;
+}
+
+#nome-monopattino {
+  font-weight: normal;
+  font-size: 23px;
+
+}
+
+.posizione-monopattino{
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+
+.bloccoVuoto {
+  height: 75px;
+  width: auto;
+}
